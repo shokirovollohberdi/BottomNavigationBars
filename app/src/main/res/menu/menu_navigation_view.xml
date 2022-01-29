@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Dastur haqida">
+        <menu>
+            <item android:title="Dastur yaratuvchisi" />
+            <item android:title="Dasturchi bilam bog'lanish" />
+        </menu>
+    </item>
+    <item android:title="Qo'shimcha">
+        <menu>
+            <item android:title="Dasturni ulshish" />
+            <item android:title="Sozlamalar" />
+        </menu>
+    </item>
+
+</menu>
